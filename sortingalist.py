@@ -13,12 +13,6 @@ print(items)
 
 print(len(items))
 
-
-
-
-
-
-
 countrys = ['dubei','unitedstate','ghana','england']
 print(countrys)
 countrys.sort()
