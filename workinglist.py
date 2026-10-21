@@ -105,7 +105,7 @@ print("these are the three item on middle side")
 print(foods[1:3])
 
 print("these are the three item in the last")
-print(foods[2:]
+print(foods[2:])
 
 my_pizzas = ['margherita', 'pepperoni', 'bbq chicken']
 friend_pizzas = my_pizzas[:]

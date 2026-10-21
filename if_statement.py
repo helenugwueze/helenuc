@@ -31,7 +31,7 @@ else:
     price = 10
 print("your admission cost is $" + str(price) + ".")  
 
-Using Multiple elif Blocks
+# Using Multiple elif Blocks
 
 age = 12
 if age < 4:
@@ -45,7 +45,7 @@ else:
 print("Your admission cost is $" + str(price) + ".")              
 
 
-Omitting the else Block
+# Omitting the else Block
 
 age = 12
 if age < 4:
@@ -58,7 +58,7 @@ elif age >= 65:
     price = 5
 print("Your admission cost is $" + str(price) + ".")
 
-Testing Multiple Conditions
+# Testing Multiple Conditions
 
 requested_toppings = ['mushrooms', 'extra cheese']
 if 'mushrooms' in requested_toppings:
